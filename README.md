@@ -1,21 +1,14 @@
 <div align="center">
 
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Arulvelan%20Ayyappan&amp;fontSize=52&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Electronics%20%26%20Communication%20Engineer%20%7C%20AI%20Agent%20Developer%20%7C%20Embedded%20Systems&amp;descAlignY=58&amp;descSize=17" width="100%" />
 
-[![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Arulvelan%20Ayyappan&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20AI%20Agent%20Developer%20%7C%20Embedded%20Systems&descAlignY=58&descSize=17)](https://github.com/arulvelan27)
-
-
-<img src="https://github.com/arulvelan27/arulvelan27/blob/main/profile.jpg?raw=true"
-     alt="Arulvelan Ayyappan"
-     width="130"
-/>
-
-<br/>
-
-
+<!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.Tech+ECE+%40+SMVEC+%7C+B.S.+Data+Science+%40+IIT+Madras;LLM+Agent+Developer+%7C+Embedded+Systems+Engineer;500%2B+LeetCode+Problems+%7C+Top+10%25+Globally;Building+at+the+intersection+of+Hardware+%26+AI)](https://github.com/arulvelan27)
 
 <br/>
 
+<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arulvelan27)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Top%2010%25-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/arulvelanayyappan)
 [![Gmail](https://img.shields.io/badge/Gmail-arulvelan24%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arulvelan24@gmail.com)
@@ -177,6 +170,6 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=130&amp;section=footer" width="100%" />
 
 </div>
