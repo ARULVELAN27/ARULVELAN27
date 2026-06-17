@@ -15,18 +15,8 @@
 
 </div>
 
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.Tech+ECE+%40+SMVEC+%7C+B.S.+Data+Science+%40+IIT+Madras;LLM+Agent+Developer+%7C+Embedded+Systems+Engineer;500%2B+LeetCode+Problems+%7C+Top+10%25+Globally;Building+at+the+intersection+of+Hardware+and+AI)](https://github.com/arulvelan27)
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arulvelan27)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Top%2010%25-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/arulvelanayyappan)
-[![Gmail](https://img.shields.io/badge/Gmail-arulvelan24%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arulvelan24@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=arulvelan27&color=70A5FD&style=flat-square&label=Profile+Views)](https://github.com/arulvelan27)
-
-</div>
 
 ---
 
