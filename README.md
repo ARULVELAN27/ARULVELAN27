@@ -8,6 +8,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF6B2B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arulvelan27.github.io/arulvelan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arulvelan27)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Top%2010%25-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/arulvelanayyappan)
 [![Gmail](https://img.shields.io/badge/Gmail-arulvelan24%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arulvelan24@gmail.com)
@@ -30,6 +31,7 @@
 - ⚙️ Designing **IoT and embedded hardware** — ECG monitors, fall detection systems, smart storage units
 - 💡 Solved **500+ LeetCode problems** — rated in the **Top 10% globally**
 - 📍 Based in **Puducherry, India**
+- 🌐 **Portfolio:** [arulvelan27.github.io/arulvelan](https://arulvelan27.github.io/arulvelan)
 
 ---
 
@@ -162,6 +164,7 @@
 
 ## 📫 Get In Touch
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-arulvelan27.github.io%2Farulvelan-FF6B2B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arulvelan27.github.io/arulvelan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arulvelan27-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arulvelan27)
 [![LeetCode](https://img.shields.io/badge/LeetCode-arulvelanayyappan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arulvelanayyappan)
 [![Gmail](https://img.shields.io/badge/Gmail-arulvelan24%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arulvelan24@gmail.com)
